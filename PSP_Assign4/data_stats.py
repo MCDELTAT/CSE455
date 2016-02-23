@@ -43,5 +43,3 @@ file = TableInput('input.csv')
 file.parse_file()			
 file.corr()
 file.signif()
-
-#4 by add by 4, 2 Modified
