@@ -1,0 +1,17 @@
+//get length of dataset array
+//calculate projection = (B0+400)*B1
+//for loop length of array: 
+	calculate sum of variance equation
+//variance = (1/length-2)*sum from above
+//take square root of variance
+//for loop length of array:
+	sum = sum + new x value
+//x average = sum/length of array
+//for loop length of array:
+	(new x value - x average)^2
+//calculate the 85 variance range based off given equation
+//calculate lower and upper intervals
+//display all results
+//calculate the 95 variance range based off given equation
+//calculate lower and upper intervals
+//display all results	
