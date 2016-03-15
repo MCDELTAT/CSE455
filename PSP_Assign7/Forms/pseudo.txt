@@ -1,0 +1,20 @@
+class TableInput:
+	def __init__:
+	//create class member parameters
+
+	def parse_file:
+	//for each row in file
+		//append x to member array
+		//append y to member array
+	//convert string inputs to integers/float for calculation
+
+	def sortData:
+	//create empty list
+	//for i in range (length of input)
+		//append [x,y] to list
+	//bubble sort:
+	//for i in range (length of list):
+		//for j in range(length-list - iterated position)
+			//if current index is greater than test index. 
+				//swap the two items of list
+	//print (sorted list)
